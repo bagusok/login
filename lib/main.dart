@@ -13,6 +13,8 @@ class Home extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Login(),
+      // TODO
+      // Add a route to the Dashboard widget
     );
   }
 }
